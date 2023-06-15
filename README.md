@@ -11,7 +11,7 @@ I have completed a frontend assignment using a variety of technologies including
  
 <h1>
     
-   <h1>Deployment Link: <span>https://panorbit-assignment-delta.vercel.app/  </span></h1>
+   
    
    
    
